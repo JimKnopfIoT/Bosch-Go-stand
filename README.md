@@ -13,6 +13,8 @@ Requirements:
 * Neodym magnet 26/12/9 mm
 
 #### View
+<img src="Iso1.jpg" width="500" align="center">
+<img src="Iso2.jpg" width="500" align="center">
 <img src="IMG_20200605_1.jpg" width="500" align="center">
 <img src="IMG_20200605_2.jpg" width="500" align="center">
 <img src="IMG_20200605_3.jpg" width="500" align="center">
