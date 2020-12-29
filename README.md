@@ -1,5 +1,5 @@
 # Bosch Go stand
-3D printable stand for Bosch Go elektric screw driver (created with Rhino 6). 
+3D printable stand for Bosch Go electric screw driver (created with Rhino 6). 
 
 I got a Bosch Go electric screw driver. It comes with 32 Bits in a small separat Box. The electric screw driver itself has had no stand. 
 I created a stand with different versions. With or without bit-holders. You can stick it in the stand with a bit mounted.
